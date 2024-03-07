@@ -1,10 +1,3 @@
-# tools
-I want to collect and share my favourite tools.
-
-Certainly, Maik. Given your background in software engineering, IT consultancy, and your proficiency across various operating systems and programming languages, I'll craft a README.md that reflects your expertise, passion for technology, and the diverse environment you operate in. This README will serve as an inviting entry point for your new tools repository, setting the tone for collaboration, innovation, and shared knowledge.
-
----
-
 # Welcome to mevemo's Toolbox 🛠️
 
 Hello, fellow explorers of the digital realm! I'm mevemo, a passionate software engineer and IT consultant hailing from the picturesque north of Germany. This repository is a curated collection of tools and scripts I've developed or fine-tuned throughout my adventures in coding and system administration. Whether you're navigating the vast seas of Arch Linux, exploring the depths of Debian and Kali virtual machines, or harmonizing with the rhythms of a shared Mac environment, there's something here for you.
@@ -51,4 +44,3 @@ Thank you for visiting my toolbox. Happy exploring!
 mevemo, your guide through the digital wilderness.
 
 ---
-
