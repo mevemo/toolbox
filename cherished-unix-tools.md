@@ -1,20 +1,15 @@
-btop
-exa
-fzf
-gcc
-grep
-man
-neovim
-ranger
-ripgrep
-rsync
-scp
-tldr
-tmux
-zsh
-less
-git
-python
-curl
-wget
+## standart equip
 
+- vim (editor like vi)
+- tmux (terminal multiplexer like screen)
+- ranger (file explorer like finder)
+- btop (better top)
+- skim (fuzzy-finder like fzf)
+- tldr (cheat-sheet for evry binary)
+
+## visual enhance
+
+- zsh (the shell)
+- ripgrep (a superior grep)
+- neovim (a bigger vim)
+- exa (a better ls)
